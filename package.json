@@ -1,0 +1,23 @@
+{
+  "name": "invictus",
+  "version": "1.0.0",
+  "description": "user management and acl of them",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jammie/invictus.git"
+  },
+  "author": "James Kachiro Sarumaha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jammie/invictus/issues"
+  },
+  "homepage": "https://github.com/jammie/invictus#readme"
+}
